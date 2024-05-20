@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">MyAnimals</string>
+    <string name="hewan">Hewan</string>
+    <string name="description">Ini adalah hewan</string>
+    <string name="image">image</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="animal_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="share">Share</string>
+
+    <!-- Nama-nama binatang -->
+    <string-array name="animal_names">
+        <item>Anjing</item>
+        <item>Kucing</item>
+        <item>Hamster</item>
+        <item>Kelinci</item>
+        <item>Burung cinta</item>
+        <item>Ikan Koi</item>
+        <item>Kura-kura</item>
+        <item>Ular Phyton</item>
+        <item>Kuda</item>
+        <item>Burung Kakatua</item>
+        <item>Tikus</item>
+        <item>Kelabang</item>
+        <item>Siput</item>
+        <item>Bebek</item>
+    </string-array>
+
+    <!-- Deskripsi untuk setiap binatang -->
+    <string-array name="animal_descriptions">
+        <item>Binatang peliharaan yang setia dan bisa menjaga rumah. Anjing merupakan hewan sosial sama seperti halnya manusia. Kedekatan pola perilaku anjing dengan manusia menjadikan anjing bisa dilatih, diajak bermain, tinggal bersama manusia, dan diajak bersosialiasi dengan manusia dan anjing yang lain. Anjing memiliki posisi unik dalam hubungan antarspesies. Kesetiaan dan pengabdian yang ditunjukkan anjing sangat mirip dengan konsep manusia tentang cinta dan persahabatan.</item>
+        <item>Binatang peliharaan yang lucu dan suka tidur. Sifat kucing cenderung fleksibel, mandiri, dan memiliki kemampuan bermain yang besar. Meskipun terkenal sebagai hewan yang lebih mandiri daripada beberapa binatang peliharaan lainnya, kucing juga bisa sangat akrab dan memiliki ikatan yang erat dengan pemiliknya. Mereka dapat memberikan perasaan nyaman dan hiburan dengan kepribadian yang unik, termasuk kebiasaan menjilat diri dan tidur yang panjang.</item>
+        <item>Binatang peliharaan kecil yang aktif dan menggemaskan. Sering dijadikan hewan peliharaan karena ukuran mereka yang kecil, sifat yang lucu, dan perawatan yang relatif mudah. Hamster memiliki ciri khas seperti pipi yang besar dan bulu lembut yang bervariasi dalam berbagai warna dan pola.</item>
+        <item>Binatang peliharaan yang lembut dan ramah.Mereka dikenal karena telinga panjang dan tubuh yang ramping. Kelinci adalah hewan herbivora, artinya mereka hanya makan tumbuhan. Mereka biasanya mengonsumsi rumput, daun, biji-bijian, dan beberapa jenis sayuran.</item>
+        <item>Binatang peliharaan dengan suara merdu. Burung peliharaan yang populer di kalangan pecinta burung. Nama ilmiahnya adalah Agapornis, yang berasal dari bahasa Yunani "agape" yang berarti cinta, dan "ornis" yang berarti burung. Nama ini menggambarkan sifat sosial dan ikatan kuat yang dibentuk oleh burung ini dengan pasangan atau pemiliknya.</item>
+        <item>Ikan indah dengan warna-warni yang menarik. Ikan Koi berasal dari Jepang dan telah menjadi simbol keindahan, ketenangan, dan keberuntungan dalam budaya Jepang. Mereka memiliki beragam warna yang menakjubkan dan pola yang sangat indah pada sisik-sisik mereka.</item>
+        <item>Kura-kura darat yang suka berjemur di bawah sinar matahari. Kura-kura adalah hewan bersifat dingin, yang berarti suhu tubuh mereka dipengaruhi oleh lingkungan sekitarnya. Ini membuat mereka membutuhkan lingkungan yang hangat untuk menjaga kesehatan dan aktivitas mereka. Biasanya, kura-kura air memerlukan akuarium dengan air bersih dan hangat, sedangkan kura-kura darat memerlukan tempat yang cukup baskom dan persembunyian.</item>
+        <item>Ular eksotis yang membutuhkan perawatan khusus. Kelompok ular besar yang terkenal dengan ukuran yang mengesankan dan perilaku berburu yang unik. Mereka ditemukan di berbagai daerah di seluruh dunia, terutama di wilayah tropis dan subtropis. Ular piton termasuk dalam kategori ular tanah, yang berarti mereka cenderung hidup di daerah bersemak atau hutan.</item>
+        <item>Hewan kuat yang sering digunakan untuk berkendara. Kuda dikenal karena kecepatan, kekuatan, dan kecerdasannya yang luar biasa. Mereka memiliki tubuh yang elegan, dengan leher panjang, kaki yang kuat, dan bulu yang bervariasi warnanya.</item>
+        <item>Burung cerdas dan memiliki kemampuan meniru suara manusia. Terkenal karena kecerdasan mereka dan kemampuan untuk menirukan suara-suara manusia dan lingkungan sekitar. Kakatua dikenal dengan bulu-bulunya yang mencolok dan indah, serta kepala yang biasanya dilengkapi dengan jambul mengesankan.</item>
+        <item>Binatang yang cekatan dan bisa masuk ke tempat sempit. Tikus adalah mamalia kecil yang sering ditemukan di seluruh dunia, dari lingkungan perkotaan hingga pedesaan. Mereka termasuk dalam keluarga Muridae dan merupakan anggota keluarga hewan pengerat. Tikus dapat memiliki berbagai ukuran, mulai dari tikus rumah yang kecil hingga tikus lapangan yang lebih besar.</item>
+        <item>Kelabang cukup umum ditemukan di tempat seperti bebatuan, gua, hutan, bahkan bagian dalam rumah. Kelabang hidup dalam berbagai habitat, mulai dari hutan hujan tropis hingga padang rumput dan lingkungan perkotaan. Mereka memiliki peranan ekologis yang penting sebagai pemakan berbagai jenis material organik, seperti daun-daunan yang gugur, kayu mati, dan bahan organik lainnya.</item>
+        <item>Siput yang lambat namun memiliki cangkang yang cantik. Siput adalah hewan yang termasuk dalam kelompok moluska, yang memiliki ciri-ciri tubuh yang lunak dan dilindungi oleh cangkang. Mereka adalah binatang peliharaan yang menarik dan unik. Siput memiliki ciri khas berupa tubuh yang melingkar dan cangkang yang melindungi tubuh mereka. Beberapa cangkang siput memiliki pola dan warna yang menarik.</item>
+        <item>Hewan lucu yang sering ditemukan di danau atau sungai. Bebek adalah salah satu jenis unggas yang sering dijadikan binatang peliharaan maupun sumber pangan di berbagai belahan dunia. Bebek memiliki ciri khas berupa tubuhnya yang kecil hingga sedang, paruh datar, dan kaki yang berselaput. Ada berbagai jenis bebek dengan variasi warna bulu yang beragam, mulai dari putih, hitam, coklat, hingga kombinasi warna lainnya.</item>
+    </string-array>
+
+    <!-- URL gambar binatang peliharaan -->
+    <string-array name="animal_images">
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Standard_Poodle.JPG/800px-Standard_Poodle.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/800px-Cat_November_2010-1a.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Golden_hamster_front_1.jpg/1280px-Golden_hamster_front_1.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Oryctolagus_cuniculus_Tasmania_2.jpg/800px-Oryctolagus_cuniculus_Tasmania_2.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Agapornis_roseicollis_-eating_grass_seeds-8.jpg/450px-Agapornis_roseicollis_-eating_grass_seeds-8.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ojiya_Nishikigoi_no_Sato_ac_%283%29.jpg/450px-Ojiya_Nishikigoi_no_Sato_ac_%283%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gigantic_Turtle_on_the_Island_of_Santa_Cruz_in_the_Galapagos.JPG/1280px-Gigantic_Turtle_on_the_Island_of_Santa_Cruz_in_the_Galapagos.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Python_reticulatus_%D1%81%D0%B5%D1%82%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%BF%D0%B8%D1%82%D0%BE%D0%BD-2.jpg/1280px-Python_reticulatus_%D1%81%D0%B5%D1%82%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%BF%D0%B8%D1%82%D0%BE%D0%BD-2.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Friesian_Stallion.jpg/375px-Friesian_Stallion.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Moluccan_cockatoo_31l07.JPG/800px-Moluccan_cockatoo_31l07.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Apodemus_sylvaticus_bosmuis.jpg/1280px-Apodemus_sylvaticus_bosmuis.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/c/cd/Soil_Centipede_Mother_With_Offspring_%2822684845147%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/1/17/Melb_cup_07_041.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/c/c7/Wandering_Whistling_Duck%2C_Nusa_Dua%2C_Bali%2C_Indonesia_1.jpg</item>
+    </string-array>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="about">About</string>
+    <string name="raafi_hilmi">Raafi Hilmi</string>
+    <string name="email">raafhilmi90@gmail.com</string>
+
+</resources>
