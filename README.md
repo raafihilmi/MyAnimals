@@ -5,6 +5,7 @@ Welcome to MyAnimals! This is my first Android application project, designed to 
 ## Table of Contents
 
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -15,6 +16,12 @@ Welcome to MyAnimals! This is my first Android application project, designed to 
 
 - **Animal List**: View a list of different animals with images.
 - **Animal Details**: Detailed information about each animal.
+
+## Screenshots
+<img height="400px" src="https://github.com/raafihilmi/MyAnimeList/assets/69000583/42dbe27a-4c42-418c-8001-99a141a4b1e3" alt="home" />
+<img height="400px" src="https://github.com/raafihilmi/MyAnimeList/assets/69000583/6db32fda-d577-4927-8e10-7098622104fc" alt="detail" />
+<img height="400px" src="https://github.com/raafihilmi/MyAnimeList/assets/69000583/14a051a2-dd23-4858-852f-82b56e981c87" alt="share" />
+<img height="400px" src="https://github.com/raafihilmi/MyAnimeList/assets/69000583/46c25253-7b28-4c14-9140-27f2d1cd0c16" alt="about" />
 
 ## Installation
 
